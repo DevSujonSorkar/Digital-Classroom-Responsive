@@ -1,0 +1,117 @@
+@media (max-width:1200px){
+.box1 {
+    width: 30.3%;
+   
+}
+}
+
+@media (max-width:992px){
+
+.section-right img {
+    width: 93%;
+}
+.box1 {
+    width: 28.3%;
+
+}
+}
+@media (max-width:768px){
+   .section-left {
+    flex-basis: 100%;
+}
+
+.section-right {
+    flex-basis: 100%;
+    text-align: center;
+}
+
+.section2 h1 {
+
+    font-size: 15px;
+}
+
+.box1 {
+    width: 100%;
+	margin-bottom: 10px;
+}
+.section4-left {
+    flex-basis: 100%;
+}
+
+.section5-left {
+    flex-basis: 50%;
+    margin: auto;
+}
+
+.section5-right {
+    flex-basis: 100%;
+    margin-top: 92px;
+}
+
+.section4-right {
+    flex-basis: 77%;
+    text-align: center;
+    margin-top: 69px;
+}
+
+.section3-left {
+    flex-basis: 71%;
+    margin: auto;
+}
+}
+@media (max-width:576px){
+.section-left h1 {
+    font-size: 25px;
+
+}
+
+.section-left {
+    flex-basis: 100%;
+}
+
+.section-right {
+    flex-basis: 100%;
+    text-align: center;
+}
+
+.section-right img {
+    width: 100%;
+    margin-top: 38px;
+}
+
+.box1 {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.section3-left {
+    flex-basis: 100%;
+}
+
+.section3-right {
+    flex-basis: 100%;
+    margin-top: 35px;
+    text-align: center;
+}
+
+.section4-left {
+    flex-basis: 100%;
+}
+
+.section4-right img {
+    width: 100%;
+}
+
+.section4-right {
+    flex-basis: 100%;
+    text-align: center;
+}
+
+.section5-right {
+    flex-basis: 100%;
+    margin-top: 36px;
+}
+
+.footer-section h4 span {
+    font-size: 16px;
+}
+}
